@@ -6,3 +6,5 @@
     'sort' - сортировка по убываню = up, по возрастанию = down
     'filterName' - Имя столбца в таблице
     'filterValue' - Значение в строке
+    
+Пример api запросаweldbook/task2-4/index.php?page=1&limit=2&sort=up&filterName=pipeline-AREA&filterValue=123-QWE-004R
